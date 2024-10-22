@@ -1,5 +1,6 @@
 import ContactForm from "@/Components/ContactUs/ContactForm";
 import React from "react";
+import Image from "next/image";
 
 const ContactUs = () => {
   
@@ -42,15 +43,22 @@ const ContactUs = () => {
                 Reach Us:
               </h1>
               <div className="flex gap-2 mb-3 items-center">
-                <img src="/phone.png" className="w-[18px]" />
+                <Image
+                 src="/phone.png" 
+                 alt="image"
+                 className="w-[18px]"
+                  />
                 <p className="">+40724343949</p>
               </div>
               <div className="flex gap-2 mb-3 items-center">
-                <img src="/mail.png" className="w-[18px]" />
+                <Image src="/mail.png"
+                alt="image"
+                 className="w-[18px]" />
                 <p className="">contact@brandaffair.ro</p>
               </div>
               <div className="flex gap-2 mb-3 items-center">
-                <img src="/location.png" className="w-[18px]" />
+                <Image src="/location.png"
+                alt="image" className="w-[18px]" />
                 <p className="">Amman St, no 35, 4th floor, ap 10, Bucharest</p>
               </div>
             </div>

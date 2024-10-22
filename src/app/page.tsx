@@ -40,7 +40,7 @@ export default function Home() {
               src="/banner2.png"
               width={500}
               height={500}
-              alt=""
+              alt="image"
               className="ml-auto"
             />
           </div>
@@ -64,17 +64,17 @@ export default function Home() {
               transition: "transform 0.1s linear", // Smooth scrolling effect
             }}
           >
-            <img
+            <Image
               src="/sugar.png"
               alt="Sugarbearhair"
               className=" w-auto h-24 text-center"
             />
-            <img
+            <Image
               src="/mindvalley.png"
               alt="Mindvalley"
               className=" w-auto h-24 text-center"
             />
-            <img
+            <Image
               src="/jenna.png"
               alt="Jenna Kutcher"
               className=" w-auto h-24 text-center"
@@ -82,37 +82,37 @@ export default function Home() {
 
             {/* Original items */}
 
-            <img
+            <Image
               src="/nike.png"
               alt="Nike"
               className=" w-auto object-cover h-24 text-center"
             />
-            <img
+            <Image
               src="/amy.png"
               alt="Amy Porterfield"
               className=" w-auto h-24 text-center"
             />
-            <img
+            <Image
               src="/hotmart.png"
               alt="Hotmart"
               className=" w-auto object-fit h-24 text-center"
             />
-            <img
+            <Image
               src="/benefit.png"
               alt="Benefit"
               className=" w-auto  h-24 text-center"
             />
-            <img
+            <Image
               src="/sugar.png"
               alt="Sugarbearhair"
               className=" w-auto h-24 text-center"
             />
-            <img
+            <Image
               src="/mindvalley.png"
               alt="Mindvalley"
               className=" w-auto h-24 text-center"
             />
-            <img
+            <Image
               src="/jenna.png"
               alt="Jenna Kutcher"
               className=" w-auto h-24 text-center"
@@ -142,7 +142,7 @@ export default function Home() {
             </h3>
             <p className="text-sm text-white pt-2">
               Lorem Ipsum is simply dummy text of the printing and <br />{" "}
-              typesetting industry. Lorem Ipsum has been the industry's <br />{" "}
+              typesetting industry. Lorem Ipsum has been the industrys <br />{" "}
               standard dummy text ever since the 1500s.
             </p>
             <button className="bg-black text-white text-left w-32 h-10 rounded-md my-2 underline underline-offset-4 font-[500]">
