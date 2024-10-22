@@ -68,16 +68,22 @@ export default function Home() {
               src="/sugar.png"
               alt="Sugarbearhair"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/mindvalley.png"
               alt="Mindvalley"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/jenna.png"
               alt="Jenna Kutcher"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
 
             {/* Original items */}
@@ -86,36 +92,50 @@ export default function Home() {
               src="/nike.png"
               alt="Nike"
               className=" w-auto object-cover h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/amy.png"
               alt="Amy Porterfield"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/hotmart.png"
               alt="Hotmart"
               className=" w-auto object-fit h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/benefit.png"
               alt="Benefit"
               className=" w-auto  h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/sugar.png"
               alt="Sugarbearhair"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/mindvalley.png"
               alt="Mindvalley"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
             <Image
               src="/jenna.png"
               alt="Jenna Kutcher"
               className=" w-auto h-24 text-center"
+              width={100}
+              height={100}
             />
           </div>
         </div>
